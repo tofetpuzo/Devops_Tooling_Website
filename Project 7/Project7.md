@@ -19,5 +19,6 @@ The second step is to make directories in /mnt directory in RHEL8 filesystem
 `sudo mkdir apps logs opt`
 
 
-
+The next step is to mount each of the logical volumes created(lv-apps , lv-logs, ls-opt) to each of these directories (apps logs opt)
+ 
 
